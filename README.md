@@ -44,8 +44,6 @@ When the application is first run you will be presented with a Login form:
   The public and private keys are encrypted and placed in the connection and licence ini files
 
   When you next login just enter the password you used when licencing to login and decrypt the Public and Private keys again
-  
-This will encrypt your public and private keys and store them in an ini file, the next time you run the app just type your password to login.
 
 Trade settings such as MarketID, amount to trade, % Desired Profit can be set in Cryptsy_Trader.ini.
 
