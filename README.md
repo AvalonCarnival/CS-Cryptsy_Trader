@@ -5,19 +5,21 @@ This app comes with no warranty, if you trade in Crytpo coins you do so at your 
 
 If you like this app and it is useful to you please show your appreciation by donating to the following wallets:
 
-BitCoin:	1LL5fbhwdFnxDpBtbbWAvZUtLBsvUDHQ36
+BitCoin:	    1LL5fbhwdFnxDpBtbbWAvZUtLBsvUDHQ36
 
-DashCoin:	Xep1nAadBMjfWRdBMwyMu2xnFaU5rCedBd
+DashCoin:	    Xep1nAadBMjfWRdBMwyMu2xnFaU5rCedBd
 
-DOGECoin:	D8UUat3vkSjHpaKW5qjgcftWfBP4XVoC5x
+DiamondCoin:	dckdkD7M4UR5hecipSVv9H3EfhN81Hy7Dm
 
-EarthCoin:	efWcnsCrJsRSBdM4T6JdAp7HjpMk9HXbCz
+DOGECoin:	    D8UUat3vkSjHpaKW5qjgcftWfBP4XVoC5x
 
-LiteCoin:	LUMrftrHV127fhcGy3cBQNPP4LTPgnhqag
+EarthCoin:	  efWcnsCrJsRSBdM4T6JdAp7HjpMk9HXbCz
 
-LottoCoin:	LrGpVRJbZUTF2faCZhbYbHGe4tC4xSCAuT
+LiteCoin:	    LUMrftrHV127fhcGy3cBQNPP4LTPgnhqag
 
-NobleCoin:	9iGMQPGm4DedkZuSBcDr5SRHFA8xkxp5ij
+LottoCoin:	  LrGpVRJbZUTF2faCZhbYbHGe4tC4xSCAuT
+
+NobleCoin:	  9iGMQPGm4DedkZuSBcDr5SRHFA8xkxp5ij
 
 The application is based around my other repository CS-CryptsyAPIV2_Class
 
