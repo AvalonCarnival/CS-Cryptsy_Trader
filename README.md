@@ -50,3 +50,19 @@ When the application is first run you will be presented with a Login form:
 Trade settings such as MarketID, amount to trade, % Desired Profit can be set in Cryptsy_Trader.ini.
 
 I hope the app brings you as much enjoyment as it has brought me, have fun :)
+
+More about the application:
+
+The application uses CS-CryptsyAPIv2_Class to query www.Cryptsy.com new API v2 (beta) RESTful API.
+
+When the application loads the login window is displayed (details on home to enter your public and private keys are above) The keys are then encrypted using SHA-256 encryption before being saved to an ini file.
+
+After logging on two windows will be presented.
+
+The main window is for Spread Trading.
+
+The child window is for Swing trading and runs under a seperate thread.
+
+SMA and EMA are used along with %R Williams to try and predict market activity when trading.
+
+Both trading bots write logs using seperate threads so that the bots can concentrate on trading.
